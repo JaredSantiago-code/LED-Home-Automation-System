@@ -1,0 +1,12 @@
+# Ignore build files
+*.bin
+*.elf
+*.hex
+
+# Ignore libraries and OS-specific files
+/libraries/
+.DS_Store
+
+# Ignore Arduino IDE files
+*.dmp
+*.ino.*
